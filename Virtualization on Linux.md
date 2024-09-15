@@ -1,7 +1,7 @@
 ## What is Virtualization ?
 Simply put, it is a process that allows for more efficient use of physical computer hardware and is the foundation of cloud computing. 
 
-![[virtualization.png| 350]]
+<img src="images/virtualization.png" width="350" >
 
 ### What is Hypervisors ?
 A hypervisor is the software layer that coordinates VMs. It acts as an interface between the VM and the underlying physical hardware, ensuring that each has access to the physical resources it needs to execute. Also ensures that the VMs don't interfere with each other by impinging on each other's memory space or compute cycles.
@@ -9,20 +9,19 @@ A hypervisor is the software layer that coordinates VMs. It acts as an interface
 ### Types of Hypervisors
 <table>
 	<tr>
-		<td><b>Type 1 hypervisors</b> (Bare-metal)</td>
-		<td> <b>Type 2 hypervisors</b></td>
+		<th><b>Type 1 hypervisors</b> (Bare-metal)</th>
+		<th><b>Type 2 hypervisors</b></th>
 	</tr>
-	<tr> 
+	<tr>
 		<td>
 			<ul>
 				<li>These run <b>directly on the computer hardware.</b></li>
-				<li> They mange and create virtual machines without needing a regular operating system(OS) first.</li>
+				<li>They manage and create virtual machines without needing a regular operating system (OS) first.</li>
 			</ul>
 		</td>
-
 		<td>
 			<ul>
-				<li>These run <b>on top of an existing operating system</b>(like Windows or Linux).</li>
+				<li>These run <b>on top of an existing operating system</b> (like Windows or Linux).</li>
 				<li>They create and manage virtual machines but need the regular OS to be running first.</li>
 			</ul>
 		</td>

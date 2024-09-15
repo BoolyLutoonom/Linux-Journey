@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Virtualization on Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Virtualization on Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Virtualization on Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Virtualization on Linux.md"
               }
             }
           }
@@ -161,9 +161,12 @@
   },
   "active": "af55c2d635b59ab1",
   "lastOpenFiles": [
-    "Virtualization on Linux.md",
+    "images /virtualization.png",
+    "images ",
+    "Untitled Folder",
     "README.md",
     "virtualization.png",
+    "Virtualization on Linux.md",
     "Virtualization.md",
     "|350.md"
   ]
