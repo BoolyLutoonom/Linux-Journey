@@ -6,8 +6,4 @@ Understanding virtualization is fundamental because many Linux commands require 
 ```
 
 ### List of major topics covered
-- [[Virtualization on Linux]] 
-	- [[Virtualization on Linux#What is Virtualization ? |What is virtualization ?]]
-	- [[Virtualization on Linux#Types of virtualization |Types of virtualization]]
-	- [[Virtualization on Linux#How does KVM work ?|How does KVM work ?]]
-	- [[Virtualization on Linux#Checking for virtualization support and troubleshooting|Checking for virtualization support and troubleshooting]]
+<a href="Virtualization on Linux.md" target="_blank">Virtualization on Linux</a>
