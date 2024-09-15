@@ -1,8 +1,8 @@
 ## What is Virtualization ?
 Simply put, it is a process that allows for more efficient use of physical computer hardware and is the foundation of cloud computing. 
 
-<a href="images/1.png">
-	<img src="images/1.png" width="350" />
+<a href="images/virtualization.png">
+	<img src="images/virtualization.png" width="350" />
 </a>
 
 ### What is Hypervisors ?
